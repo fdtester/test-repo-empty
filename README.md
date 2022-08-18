@@ -1,1 +1,2 @@
-# test-repo-empty
+# Empty test repo
+TestAction: Read
